@@ -1,0 +1,31 @@
+@media screen and (max-width: 950px) {
+    .form-lateral {
+        display: none;
+    }
+
+    .form-mobile {
+        display: block;
+    }
+}
+
+.form-lateral{
+    position: fixed;
+    right: 30px;
+    width: 25%;
+    margin-top: 7%;
+    background-color: lightseagreen;
+    padding: 25px;
+}
+
+.form-lateral input{
+    display: block;
+    width: 100%;
+}
+
+.form-mobile{
+    position: fixed;
+    right: 30px;
+    bottom: 40px;
+    background-color: lightgreen;
+    display: none;
+}

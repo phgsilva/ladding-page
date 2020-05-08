@@ -1,0 +1,120 @@
+.navbar{
+    border: solid 1px orangered;
+    background-color: black;
+}
+
+.nav-item{
+    border-left: solid 1px orangered;
+    border-right: solid 1px orangered;
+}
+
+.nav-link{
+    color: white;
+    font-weight: bold;
+}
+
+.nav-link:hover{
+    color: orangered;
+}
+
+.form-lateral{
+    position: fixed;
+    right: 30px;
+    width: 25%;
+    margin-top: 7%;
+    background-color: lightseagreen;
+    padding: 25px;
+}
+
+.form-lateral input{
+    display: block;
+    width: 100%;
+}
+
+.section-banner{
+    background-image: url('imagens/banner_principal.jpg');
+    height: 400px;
+    margin-top: 50px;
+}
+
+.titulo-chamativo{
+    margin: 30px; 
+}
+
+.section-racional{
+    background-color: lightsteelblue;
+}
+
+.argumentos{
+    margin: 15px 25px;
+}
+
+.img-mapa{
+    width: 80%;
+    height: 150px;
+    display: block;
+    margin-top: 20px;
+}
+
+.section-depoimentos{
+    background-color: lightgreen;
+}
+
+.titulo-depoimentos{
+    margin-left: 25px;
+    padding-top: 15px;
+}
+
+.row-depoimentos{
+    padding: 50px;
+}
+
+.depoimento{
+    border: solid 1px;
+    margin: 10px;
+    background-color: lime; 
+}
+
+.depoimento img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -20px;
+}
+
+.section-info-mip{
+    background-color: mediumaquamarine;
+    padding-bottom: 20px;
+}
+
+.titulo-info-mip{
+    margin-left: 25px;
+    padding-top: 15px;
+}
+
+.img-certificados img{
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+}
+
+.footer{
+    background-color: black;
+    color: white;
+}
+
+.logo-mip{
+    width: 250px;
+    margin: 50px;
+}
+
+.logo-mip img{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.endereco{
+    padding: 30px;
+}

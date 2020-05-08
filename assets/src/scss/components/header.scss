@@ -1,0 +1,23 @@
+.navbar{
+    border: solid 1px orangered;
+    background-color: black;
+}
+
+.nav-item{
+    border-left: solid 1px orangered;
+    border-right: solid 1px orangered;
+}
+
+.nav-link{
+    color: white;
+    font-weight: bold;
+}
+
+.nav-link:hover{
+    color: orangered;
+}
+
+.navbar-toggler-icon{
+    color: orangered;
+    font-weight: bold;
+}
